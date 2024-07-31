@@ -4,17 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://medium.com/@laukitmandal02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="mailto:laukitmandal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://x.com/Lokki_13"><img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1722297600&semt=ais_hybrid" height=25></a>
-</div>
-
-###
-
 <h1 align="center">Hi there! I'm Laukit Mandal <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> </h1>
 
 ###
@@ -30,8 +19,18 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 </div>
 
 ###
+## ⚡ A Few Quick Facts:
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<img align="right" src="https://github.com/Laukit13/Laukit13/blob/main/Gifs/200w.gif" />
+
+- 🔭 I’m currently working on multiple projects Based on NLP .
+- 🧮 I’m currently learning LLMs & VLMs.
+- 👯 I’m looking to collaborate on any GenAI related research project.
+- 📫 How to reach me: [Gmail](laukitmandal02@gmail.com) Or We can Just Connect on [Linkdin](https://www.linkedin.com/in/laukitmandal/)
+- 😄 Pronouns: He/Him
+- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
+- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
+- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
 
 ###
 
