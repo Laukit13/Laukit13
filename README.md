@@ -111,3 +111,9 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
+
+###
