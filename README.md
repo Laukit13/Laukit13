@@ -1,12 +1,3 @@
-## 🎧 Spotify Playing:
-
-<p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
-    </a>
-</p>
-<br>
-
 ###
 
 <div align="center">
