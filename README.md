@@ -30,8 +30,8 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
 
 <details>
-<summary> <b>A Joke For You</b> </summary>
-<summary> <b>A Why did the data scientist break up with the statistician?</b> </summary>  
+# A Joke For You
+<summary> <b>Why did the data scientist break up with the statistician?</b> </summary>
 Because they found out they were just a standard deviation away from their ideal match! 😄
 </details>
 
