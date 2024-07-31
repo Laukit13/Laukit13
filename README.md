@@ -59,7 +59,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://images.squarespace-cdn.com/content/6596dfc539fa52603ef8b8d4/1704482165515-P512Q484O8BPGP5D7YQ2/scipy%2Bpng%2BHQ.png?format=1500w&content-type=image%2Fpng" height="40" alt="Ms Copilot logo"  />
+  <img src="https://numfocus.org/wp-content/uploads/2017/11/scipy_logo300x300.png" height="40" alt="Scipy logo"  />
   <img width="12" />
   <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" height="40" alt="MatplotLib logo"  /> 
   <img width="12" />
