@@ -29,7 +29,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 - 📫 How to reach me: You can contact me via [Gmail](laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
 
-# A Joke For You
+### A Joke For You
 <details>
 <summary> <b>Why did the data scientist break up with the statistician?</b> </summary>
 Because they found out they were just a standard deviation away from their ideal match! 😄
