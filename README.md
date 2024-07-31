@@ -81,6 +81,8 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" height="40" alt="ChatGPT logo"  />
   <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2023/11/Copilot-Logo.png" height="40" alt="ChatGPT logo"  />
+  <img width="12" />
   <img src="https://cdn.pixabay.com/photo/2021/12/14/22/29/meta-6871457_1280.png" height="40" alt="Meta logo"  /> 
   <img width="12" />
 
