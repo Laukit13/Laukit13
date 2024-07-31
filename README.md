@@ -1,4 +1,6 @@
-<img align="center" alt="" src="https://github.com/Laukit13/Laukit13/blob/main/Gifs/31532d7d378053de3b8bf23c6e7bfae3.gif" />
+<div align="center">
+  <img height="150" src="https://github.com/Laukit13/Laukit13/blob/main/Gifs/31532d7d378053de3b8bf23c6e7bfae3.gif"  />
+</div>
 
 ###
 
