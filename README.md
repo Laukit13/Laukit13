@@ -1,4 +1,11 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*jm75PhwcXyP4I0gVU_wxRg.gif" />
+## 🎧 Spotify Playing:
+
+<p align="center">
+    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
+        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
+    </a>
+</p>
+<br>
 
 ###
 
