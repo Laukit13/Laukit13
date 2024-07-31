@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
   <a href="mailto:laukitmandal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <img src="https://img.shields.io/static/v1?message=laukitmandal89@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=lokki_13&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://media.itsnicethat.com/images/twitter-x-logo-graphic-design-itsnicethat-01.width-1440_WgWw7Xq65qfzL1dm.jpg" height="25" alt="discord logo"  />
 </div>
 
 ###
