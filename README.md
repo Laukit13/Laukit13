@@ -87,7 +87,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="Github logo"  />
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="40" alt="Github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
