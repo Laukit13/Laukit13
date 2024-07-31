@@ -26,11 +26,15 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 - 🔭 I’m currently working on multiple projects Based on NLP .
 - 🧮 I’m currently learning LLMs & VLMs.
 - 👯 I’m looking to collaborate on any GenAI related research project.
-- 📫 How to reach me: [Gmail](laukitmandal02@gmail.com) Or We can Just Connect on [Linkdin](https://www.linkedin.com/in/laukitmandal/)
-- 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I often write articles on [my blog](https://mirsazzathossain.me/articles).
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+- 📫 How to reach me: You can contact me via [Gmail](laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
+- 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
+- <details>
+<summary> <b>Some title here</b> </summary>
+  your long text here
+<details>
+- A Joke For You:
+  Why did the data scientist break up with the statistician?
+  Because they found out they were just a standard deviation away from their ideal match! 😄
 
 ###
 
