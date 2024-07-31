@@ -63,7 +63,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/533d195d96af7a2f996b2170c941e05698e8b270d29366f5e1f109d4ddf0bd55?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-pirate.svg%3B+filename%3D%22hf-logo-pirate.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1722672585&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMjY3MjU4NX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzUzM2QxOTVkOTZhZjdhMmY5OTZiMjE3MGM5NDFlMDU2OThlOGIyNzBkMjkzNjZmNWUxZjEwOWQ0ZGRmMGJkNTU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=OXdtKBRoLtf-UDtUIWlo%7Eig5UvtBsAEMm03ZyuhzeTWzoJgES5uov3iqjKOonRlEHzk07n6u2lWc%7Erds0d1MVkOdhNV6VTVLCtO2wW4BV54VWiHCkEyYpUM69-NojFPiL32EWyFeCz%7E3LIyfhaWQkH4HXSZT42-qf7x7XPTjj0Vmn8gF0W3ozlKTrsI0Uau8IimiwO-J7%7EPXKZygX4zToJSUnchJSDhcIFJcNxarhzcIzuyoBG9%7E-qfEaUFUvIHwiZIcNewAu0mx0RX3Sd4lJeYI6MuFcTkohEqHtAbd%7E77iQTMHHgqmQVzR9TXX46sb33L9%7E%7Ey4lPtJLgaKP0w36Q__&Key-Pair-Id=K3ESJI6DHPFC7" height="40" alt="Huggingface logo"  />
   <img width="12" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-light.png" height="40" alt="Streamlit logo"  />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="40" alt="Streamlit logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
