@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+<img align="center" width="100%" alt="" src="[https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*jm75PhwcXyP4I0gVU_wxRg.gif)" />
 
 ###
 
