@@ -109,6 +109,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 </p>
 <br>
 ###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oawm7fnpf3gf5r7vhxx2qbfiii&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">🔥   My Stats :</h3>
 
