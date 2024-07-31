@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" <iframe src="https://giphy.com/embed/TkuE3Jx6D3ybbu3nLe" width="480" height="374" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/metrics-corporative-exlytics-TkuE3Jx6D3ybbu3nLe">via GIPHY</a></p>" />
+<img align="center" width="100%" alt=""<iframe src="https://giphy.com/embed/TkuE3Jx6D3ybbu3nLe"/>
 
 ###
 
