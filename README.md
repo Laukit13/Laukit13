@@ -22,6 +22,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+I'm a data enthusiast fueled by the thrill of turning raw data into gold, always on the hunt for the next big insight that could spark innovation. As a B.Tech graduate in Computer Science and Engineering, I’ve built a strong foundation in statistical analysis and machine learning, enabling me to quickly grasp new skills and adapt to the ever-evolving world of technology. My passion extends beyond traditional methods—I’m deeply immersed in the latest trends in generative AI, constantly exploring how these cutting-edge technologies can be harnessed to create impactful, real-world solutions. Whether diving into complex datasets or experimenting with the newest AI models, I’m always ready to push boundaries and transform ideas into reality.
+
+###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
