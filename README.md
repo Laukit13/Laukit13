@@ -83,7 +83,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://www.comset.co.uk/wp-content/uploads/2024/01/Microsoft-Copilot-Logo-300.png" height="40" alt="Ms Copilot logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbiToV1xaxF5HI-LAWTK9tQ1spoMlkPpCknjuLh6CEmjI8Il5TD7k3IYqooAUQIb-8vY&usqp=CAU" height="40" alt="Meta logo"  /> 
+  <img src="https://images.rawpixel.com/image_png_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwOTEtMDUucG5n.png" height="40" alt="Meta logo"  /> 
   <img width="12" />
 
   
