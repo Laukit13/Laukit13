@@ -28,10 +28,10 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 - 👯 I’m looking to collaborate on any GenAI related research project.
 - 📫 How to reach me: You can contact me via [Gmail](laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
-
+<details>
 <summary> <b>Some title here</b> </summary>
   your long text here
-  
+</details>
 - A Joke For You:
   Why did the data scientist break up with the statistician?
   Because they found out they were just a standard deviation away from their ideal match! 😄
