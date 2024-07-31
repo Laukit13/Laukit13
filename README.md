@@ -59,6 +59,8 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
+  <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" height="40" alt="MatplotLib logo"  /> 
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="Seaborn logo"  /> 
   <img width="12" />
   <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" height="40" alt="PowerBI logo"  /> 
