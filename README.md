@@ -31,8 +31,8 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 
 <details>
 <summary> <b>A Joke For You</b> </summary>
-  Why did the data scientist break up with the statistician?
-  Because they found out they were just a standard deviation away from their ideal match! 😄
+<summary> <b>A Why did the data scientist break up with the statistician?</b> </summary>  
+Because they found out they were just a standard deviation away from their ideal match! 😄
 </details>
 
 ###
