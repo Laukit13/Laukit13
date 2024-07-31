@@ -63,7 +63,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="40" alt="PowerBI logo"  /> 
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height="40" alt="Tableau logo"  /> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
