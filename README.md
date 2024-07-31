@@ -24,7 +24,7 @@
 ###
 I'm a data enthusiast fueled by the thrill of turning raw data into gold, always on the hunt for the next big insight that could spark innovation. As a B.Tech graduate in Computer Science and Engineering 🎓, I’ve built a strong foundation in statistical analysis and machine learning, enabling me to quickly grasp new skills and adapt to the ever-evolving world of technology. My passion extends beyond traditional methods, I’m deeply immersed in the latest trends in generative AI, constantly exploring how these cutting-edge technologies can be harnessed to create impactful, real-world solutions. Whether diving into complex datasets or experimenting with the newest AI models ✨, I’m always ready to push boundaries and transform ideas into reality.
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://medium.com/@laukitmandal02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
