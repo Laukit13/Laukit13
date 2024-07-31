@@ -99,7 +99,15 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
   <img width="12" />
   
 </div>
+###
+## 🎧 Spotify Playing:
 
+<p align="center">
+    <a href="https://open.spotify.com/user/31oawm7fnpf3gf5r7vhxx2qbfiii?si=327cd3f7da8a4f3b" target="_blank"> 
+        <img width="100%" src="[https://spotify-playing-now-phi.vercel.app/api/spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31oawm7fnpf3gf5r7vhxx2qbfiii&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" alt="Sazzat's Spotify" />
+    </a>
+</p>
+<br>
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
