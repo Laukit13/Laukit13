@@ -1,5 +1,5 @@
 <div align="center">
-<iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
 </div>
 
 ###
