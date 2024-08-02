@@ -1,5 +1,5 @@
 <div align="center">
-<p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFtM2c4cHJjdXRsZzFudnU3NnY5Zmd2bmNtaXYzajdpdXFrbnVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" height="40" alt="python logo"  />
 </div>
 
 ###
