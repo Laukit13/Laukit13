@@ -24,7 +24,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 <img align="right" src="https://github.com/Laukit13/Laukit13/blob/main/Gifs/200w.gif" />
 
 - 🔭 I’m currently working on multiple projects Based on NLP & Computer Vision.
-- 🧮 I’m currently learning LLMs & VLMs.
+- 🧮 I’m currently learning LLMs & VLMs With GenAI.
 - 👯 I’m looking to collaborate on any GenAI related research project.
 - 📫 How to reach me: You can contact me via [Gmail](laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
