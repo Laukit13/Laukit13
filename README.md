@@ -7,7 +7,16 @@
 <h1 align="center">Hi there! I'm Laukit Mandal <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> </h1>
 
 ###
-I'm a data enthusiast fueled by the thrill of turning raw data into gold, always on the hunt for the next big insight that could spark innovation. As a B.Tech graduate in Computer Science and Engineering 🎓, I’ve built a strong foundation in statistical analysis and machine learning, enabling me to quickly grasp new skills and adapt to the ever-evolving world of technology. My passion extends beyond traditional methods, I’m deeply immersed in the latest trends in generative AI, constantly exploring how these cutting-edge technologies can be harnessed to create impactful, real-world solutions. Whether diving into complex datasets or experimenting with the newest AI models ✨, I’m always ready to push boundaries and transform ideas into reality.
+I’m a **Data Research Specialist** driven by curiosity and a love for uncovering insights hidden in complex datasets.  
+At **JATO Dynamics (since Jan 2025)**, I contribute to enhancing global automotive market intelligence through **data research, automation, and strategic analytics**.
+
+My key responsibilities include:
+- 🔍 Conducting **detailed market research and trend analysis** to uncover consumer behavior, competitor movements, and strategic insights in the automotive space.  
+- 🚗 Curating and managing a **comprehensive database of car makes and models** across the European market, ensuring accuracy and relevance.  
+- 🤝 Collaborating with internal teams and external automotive partners to **gather, validate, and deliver key industry data** that powers informed decision-making.  
+
+With a **B.Tech in Computer Science & Engineering**, I’ve built a strong foundation in **data analytics, statistical modeling, and generative AI**.  
+My interests extend into the realms of **LLMs**, **VLMs**, and emerging **GenAI applications**, exploring how they can revolutionize the way research and data intelligence work together.  
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -23,16 +32,18 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 
 <img align="right" src="https://github.com/Laukit13/Laukit13/blob/main/Gifs/200w.gif" />
 
-- 🔭 I’m currently working on multiple projects Based on NLP & Computer Vision.
-- 🧮 I’m currently learning LLMs & VLMs With GenAI.
-- 👯 I’m looking to collaborate on any GenAI related research project.
+- 🧩 Currently working as a **Data Research Specialist** at **JATO Dynamics**  
+- 📊 Skilled in **data analysis**, **automation**, and **market research**  
+- 🧠 Learning and experimenting with **LLMs**, **VLMs**, and **Generative AI**  
+- 🔭 Passionate about connecting **data science** with **research intelligence**  
+- 🤝 Open to collaborating on **AI-driven or data research projects**  
 - 📫 How to reach me: You can contact me via [Gmail](laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
 
 ### A Joke For You
 <details>
-<summary> <b>Why did the data scientist break up with the statistician?</b> </summary>
-Because they found out they were just a standard deviation away from their ideal match! 😄
+<summary><b>Why did the car apply for a data science job?</b></summary>
+Because it wanted to learn how to *drive insights* instead of just kilometers! 😄  
 </details>
 
 <!-- 
