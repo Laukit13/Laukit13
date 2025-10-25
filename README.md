@@ -35,6 +35,7 @@ I'm a data enthusiast fueled by the thrill of turning raw data into gold, always
 Because they found out they were just a standard deviation away from their ideal match! 😄
 </details>
 
+<!-- 
 ###
 <br>
 <h3 align="left">🛠 Language and tools</h3>
@@ -102,7 +103,7 @@ Because they found out they were just a standard deviation away from their ideal
 </div>
 
 ###
-
+-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
