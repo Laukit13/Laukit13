@@ -38,7 +38,7 @@ My curiosity extends into the world of Large Language Models (LLMs), Vision-Lang
 - 🧠 Learning and experimenting with **LLMs**, **VLMs**, and **Generative AI**  
 - 🔭 Passionate about connecting **data science** with **research intelligence**  
 - 🤝 Open to collaborating on **AI-driven or data research projects**  
-- 📫 How to reach me: You can contact me via [![Gmail](mailto:laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
+- 📫 How to reach me: You can contact me via [Gmail](mailto:laukitmandal02@gmail.com) or connect with me on [LinkdIn](https://www.linkedin.com/in/laukitmandal/)
 - 🧾 Check out my [resume](https://drive.google.com/file/d/1SzgBHQMnoBjgxppjqW0EVAjw1k3Hp74x/view?usp=sharing).
 
 ### A Joke For You
