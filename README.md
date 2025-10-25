@@ -15,8 +15,9 @@ My key responsibilities include:
 - 🚗 Curating and managing a **comprehensive database of car makes and models** across the European market, ensuring accuracy and relevance.  
 - 🤝 Collaborating with internal teams and external automotive partners to **gather, validate, and deliver key industry data** that powers informed decision-making.  
 
-With a **B.Tech in Computer Science & Engineering**, I’ve built a strong foundation in **data analytics, statistical modeling, and generative AI**.  
-My interests extend into the realms of **LLMs**, **VLMs**, and emerging **GenAI applications**, exploring how they can revolutionize the way research and data intelligence work together.  
+Armed with a **B.Tech in Computer Science & Engineering**, I’ve built a solid foundation in **data analytics**, **statistical modeling**, and **generative AI**.
+At present, I channel these skills as a **Data Research Specialist** in the **automotive sector**, transforming complex market data into meaningful insights that drive strategic decisions.
+My curiosity extends into the world of Large Language Models (LLMs), Vision-Language Models (VLMs), and next-generation GenAI systems, exploring how intelligent automation can revolutionize **automotive research** and **data intelligence**. 
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
