@@ -24,7 +24,6 @@ My curiosity extends into the world of Large Language Models (LLMs), Vision-Lang
   <a href="https://medium.com/@laukitmandal02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:laukitmandal02@gmail.com)
   <a href="mailto:laukitmandal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://x.com/Lokki_13"><img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1722297600&semt=ais_hybrid" height=25></a>
 </div>
